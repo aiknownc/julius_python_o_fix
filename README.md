@@ -1,5 +1,7 @@
 # Julius, fast PyTorch based DSP for audio and 1D signals
 
+This is a fork of the original julius repo with a fix for an issue that occurs when running python with the `-O` (or `-OO`) option.
+
 ![linter badge](https://github.com/adefossez/julius/workflows/linter/badge.svg)
 ![tests badge](https://github.com/adefossez/julius/workflows/tests/badge.svg)
 ![cov badge](https://github.com/adefossez/julius/workflows/cov%3E90%25/badge.svg)
